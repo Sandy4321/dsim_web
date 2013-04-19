@@ -1,1 +1,3 @@
 This file was created by PyCharm 2.7.2 for binding GitHub repository
+1. User localhost with Geonode: Geodjango + Geoserver + Geonetwork + Openlayer ... (http://geonode.org/)
+2. postGIS and postgresql to stor data
