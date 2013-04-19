@@ -1,4 +1,8 @@
 """
+Author = Jinjun Sun
+Date = 2013-04-19
+EMail = jsunster@gmail.com
+
 WSGI config for dsim_web project.
 
 This module contains the WSGI application used by Django's development server
